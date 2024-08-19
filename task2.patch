@@ -1,7 +1,7 @@
 From 7c298b9ebb009d727f6d22a14e52f017c32f7497 Mon Sep 17 00:00:00 2001
 From: Calvin Yorn <calvin_yorn@student.uml.edu>
 Date: Sun, 18 Aug 2024 20:36:48 -0400
-Subject: [PATCH] Your commit message describing the changes
+Subject: [PATCH] Task 2 Completed
 
 ---
  .idea/.gitignore                              |  3 ++
